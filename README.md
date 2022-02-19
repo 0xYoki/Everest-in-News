@@ -30,6 +30,7 @@ The National:
 https://www.thenational.com.pg/pact-provides-platform-for-transferring-money/
 
 Fintech Futures:
+
 https://www.fintechfutures.com/2019/03/everest-to-supply-kyc-platform-in-samoa-for-cross-border-transactions/
 
 Yahoo Finance:
