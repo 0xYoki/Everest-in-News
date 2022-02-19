@@ -1,5 +1,5 @@
 # Everest-in-News
-Collection of relevant articles featuring Everest. Quality information and interesting thoughts/perspectives is to be found in them.
+Collection of relevant news articles featuring Everest. Quality information and interesting thoughts/perspectives is to be found in them.
 Not ordered chronologically.
 
 This is a living document. New articles that are worth mentioning will be added as they get published.
